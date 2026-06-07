@@ -1,15 +1,10 @@
-# Cyber Security Task 1: Vulnerability Assessment Report (Security Headers)
+# Vulnerability Assessment Report for a Live Website
 
 ## Project Overview
 This repository contains a professional Vulnerability Assessment Report evaluating the web server response headers of the target application against industry-standard security baselines. Implementing proper HTTP security headers is a critical defense-in-depth measure to mitigate client-side risks such as Cross-Site Scripting (XSS), Clickjacking, side-channel leaks, and data sniffing.
 
-- **Track Code:** CS (Cyber Security)
-- **Task Number:** 01
 - **Target Scope:** OWASP Juice Shop Web Application
 - **Target URL:** https://owasp.org/www-project-juice-shop/
-- **Prepared By:** Devarshetty Pravalika
-- **Date:** June 7, 2026
-
 ---
 
 ## Security & Analysis Tools Used
